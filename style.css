@@ -1,0 +1,290 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+
+}
+
+header{
+	background-color: #0c426f;
+	overflow: hidden;
+	
+	
+  
+}
+
+.nav1{
+     padding: 22px 162px;
+   
+	overflow: hidden;
+	
+}
+
+.logo{
+	
+}
+
+.logo a{
+	float: left;
+	color: #fff;
+	text-decoration: none;
+	font-size: 26px;
+}
+
+.search{
+	padding: 3px 0;
+ 
+}
+.SE{
+	float: right;
+	padding: 4px 40px;
+}
+/*.BB{
+	padding: 0 0;
+}*/
+
+.nav2{
+	padding: 16px 162px;
+	border-top: 1px solid #1f537e;
+}
+.margin{
+	padding-top: 22px;
+	margin: 0px 162px;
+}
+.list ul li{
+	display: inline;
+	padding-right: 44px;
+	
+	
+}
+.AN{
+	text-decoration: none;
+	color: #FFF;
+	
+}
+
+.imageslider{
+	width: 100%;
+	height: 333px;
+	background: #d7e3e3;
+}
+
+
+
+
+
+
+
+.icons-holder{
+	background-color: #FFF;
+	margin: 0px 162px;
+	height: 150px;
+	border-bottom:1px solid #efece1;
+}
+
+.icons{
+	width: 60%;
+	height: 200px;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+.icons i{
+	font-size: 50px;
+	width: 46px;
+	height: 60px;
+	padding-left: 14px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	margin-top: 43px;
+	margin-right: 30px;
+	background-color: #f7f0bb;
+	border-radius:  50px; 
+}
+.icons span {
+	display: none;
+}
+.icons span p{
+	width: 80px;
+	text-align:center;
+}
+.fa-book:before,.fa-edit:before,.fa-file-word:before,.fa-users:before,.fa-male:before,.fa-briefcase:before,.fa-money-bill-alt:before,.fa-chart-line:before {
+   font-size: 40px;
+}
+.icons a{
+	color: #666;
+	float: left;
+	text-decoration:none;
+}
+.icons a:hover  span {
+	display: block;
+}
+.icons a:hover i{color:#ffffff;}
+.icons a:hover .i1{background-color: rgba(212, 43, 30,0.6);}
+.icons a:hover .i2{background-color: rgba(212, 43, 30,0.4);}
+.icons a:hover .i3{background-color: rgba(32, 95, 147,0.6);}
+.icons a:hover .i4{background-color: rgba(212, 43, 30,0.2);}
+.icons a:hover .i5{background-color: rgba(92, 145, 82,0.6);}
+.icons a:hover .i6{background-color: rgb(123, 132, 121);}
+.icons a:hover .i7{background-color: rgba(123, 49, 127,0.6);}
+.icons a:hover .i8{background-color: rgba(32, 95, 147,0.4);;}
+
+
+
+
+
+
+
+
+
+
+
+.professors{
+	background-color: #FFF;
+	margin: 0px 162px;
+	height: 310px;
+	border-bottom:1px solid #efece1;
+	/*display: inline;
+	float: left;*/
+}
+
+.img{
+	border: 1px solid #ddd; /* Gray border */
+    border-radius: 4px;  /* Rounded border */
+    padding: 5px; /* Some padding */
+    width: 150px; /* Set a small width */
+
+}
+
+.ar{
+	width: 50%;
+	float: left;
+	padding-top:34px;
+	
+ 	
+}
+.ak{
+	width: 50%;
+	float: left;
+	padding-top: 34px;
+	
+}
+
+.info{
+	float: right;
+	padding-top: 10px;
+	padding-right: 178px;
+	color: #666;
+}
+
+.info a{
+	/*color: #666;*/
+	text-decoration: none;
+	font-weight: lighter;
+}
+.content{
+	width: 100%;
+	height: 300px;
+
+}
+
+.list2{
+	width: 50%;
+	/*height: 300px;*/
+}
+
+/*.list2 a{
+	text-decoration: none;
+	border:1px solid #e1bc88;
+	background-color: #ffffcc;
+	padding: 1px 1px;
+
+}*/
+/*.list2 li {
+	list-style: none;
+	border:1px solid #e1bc88;
+	background-color: #ffffcc;
+	padding: 0 0;*/
+}
+
+.con-log{
+	
+}
+
+.pec{
+	
+	
+	background-color:  black;
+}
+.pec a{
+	
+}
+.pec h4{
+	
+}
+
+.admission{
+	
+	background-color: purple;
+}
+
+
+
+
+.footer{
+	width: 100%;
+	height: 300px;
+	background-color: #0c426f;
+}
+.box{
+	width: 17.5%;
+	height: 200px;
+	float: left;
+}
+.box h2{
+	text-transform: uppercase;
+	margin-top: 10px;
+	color: #d9dee4;
+}
+.box img {
+	margin-top: 20px;
+}
+.box p{
+    color: #6991b7;
+    margin-top: 10px;
+}
+.box .socials{
+	margin-top: 10px;
+	margin-left: 10px;
+	color: #6991b7;
+	font-size: 25px;
+}
+.box .socials2{
+	margin-right: 120px;
+}
+.box h4{
+	color:#d9dee4;
+	margin-left: 20px;
+}
+.box .ietians{
+	width: 70px;
+	height: 55px;
+	margin-left: 30px;
+}
+.box .socials:hover{
+	color:#fab700;
+}
+.box p span{
+	color:white;
+}
+.box p a{
+	    color: #6991b7;
+}
+.box img{
+	height: 100px;
+}
+#feed{
+	margin-left: 15%;
+}
